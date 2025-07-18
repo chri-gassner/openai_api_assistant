@@ -11,7 +11,6 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/deinuser/dein_package",
     classifiers=[
-        "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
+        "Programming Language :: Python :: 3"
     ],
 )
